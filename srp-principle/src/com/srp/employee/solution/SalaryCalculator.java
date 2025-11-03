@@ -1,4 +1,4 @@
-package com.srp.epmployee.solution;
+package com.srp.employee.solution;
 
 public class SalaryCalculator {
 
